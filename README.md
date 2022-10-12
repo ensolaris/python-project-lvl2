@@ -5,3 +5,4 @@ Takes two files as arguments, returns a pretty-printed diff file
 
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/juuliadidenko/python-project-lvl2/workflows/hexlet-check/badge.svg)](https://github.com/juuliadidenko/python-project-lvl2/actions)
+[![Python CI](https://github.com/juuliadidenko/python-project-lvl2/actions/workflows/pyci.yml/badge.svg)](https://github.com/juuliadidenko/python-project-lvl2/actions/workflows/pyci.yml)
