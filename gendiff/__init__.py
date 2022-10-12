@@ -1,7 +1,7 @@
-from gendiff.tools.generate_diff import generate_diff
-from gendiff.tools.generate_diff import get_dict_from_json
-from gendiff.tools.generate_diff import jsonify_repr
-from gendiff.tools.generate_diff import compare_data
+from gendiff.generate_diff import generate_diff
+from gendiff.generate_diff import get_dict_from_json
+from gendiff.generate_diff import jsonify_repr
+from gendiff.generate_diff import compare_data
 
 
 __all__ = (
